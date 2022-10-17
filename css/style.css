@@ -59,7 +59,7 @@ body {
   padding-block: 2rem;
 }
 
-.card__text-title {
+.card__text-title h1 {
   font-weight: bold;
   color: var(--dark-blue);
   font-size: 2rem;
